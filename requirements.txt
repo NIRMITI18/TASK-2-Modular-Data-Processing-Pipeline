@@ -1,0 +1,7 @@
+# Optional / recommended dependencies
+sentence-transformers>=2.2.2
+numpy
+scikit-learn
+PyPDF2
+beautifulsoup4
+faiss-cpu  # optional: install only if you want FAISS vector index

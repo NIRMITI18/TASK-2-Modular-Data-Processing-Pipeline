@@ -1,0 +1,32 @@
+[
+  {
+    "source": "c:\\Users\\nirmi_jra9ccr\\New folder (8)\\data\\example_raw.csv#row:0",
+    "text": "\"A tiny example dataset with noisy/unstructured text.\"",
+    "snippet": "\"A tiny example dataset with noisy/unstructured text.\""
+  },
+  {
+    "source": "c:\\Users\\nirmi_jra9ccr\\New folder (8)\\data\\example_raw.csv#row:1",
+    "text": "id text",
+    "snippet": "id text"
+  },
+  {
+    "source": "c:\\Users\\nirmi_jra9ccr\\New folder (8)\\data\\example_raw.csv#row:2",
+    "text": "1 This is a sample entry. It has inconsistent whitespace.",
+    "snippet": "1 This is a sample entry. It has inconsistent whitespace."
+  },
+  {
+    "source": "c:\\Users\\nirmi_jra9ccr\\New folder (8)\\data\\example_raw.csv#row:3",
+    "text": "2 Second row: contains a URL https://example.com and some HTML-like <b>bold</b> text.",
+    "snippet": "2 Second row: contains a URL https://example.com and some HTML-like <b>bold</b> text."
+  },
+  {
+    "source": "c:\\Users\\nirmi_jra9ccr\\New folder (8)\\data\\example_raw.csv#row:4",
+    "text": "3 Third row\\nHas a newline and some non-printable\\x0c characters.",
+    "snippet": "3 Third row\\nHas a newline and some non-printable\\x0c characters."
+  },
+  {
+    "source": "c:\\Users\\nirmi_jra9ccr\\New folder (8)\\data\\example_raw.csv#row:5",
+    "text": "4 Fourth: a long lorem ipsum to illustrate trimming. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "snippet": "4 Fourth: a long lorem ipsum to illustrate trimming. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  }
+]

@@ -1,0 +1,6 @@
+"""A tiny example dataset with noisy/unstructured text."""
+"id","text"
+1,"This is a sample entry.   It has    inconsistent   whitespace."
+2,"Second row: contains a URL https://example.com and some HTML-like <b>bold</b> text."
+3,"Third row\nHas a newline and some non-printable\x0c characters."
+4,"Fourth: a long lorem ipsum to illustrate trimming. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
